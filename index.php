@@ -11,8 +11,8 @@
 <link rel="stylesheet" href="style.css">
 <!-- JS Script -->
 <script src="script.js"></script>
-<title>AJAX FORM SUBMIT</title>  
-</head>    
+<title>AJAX FORM SUBMIT</title>
+</head>
 <body>
     <div id="ajaxform">
         <h3 class="text-center text-white pt-5">Ajax Form Submit Without Page Refresh</h3>
@@ -27,7 +27,7 @@
                                 <input type="text" name="username" id="username" class="form-control">
                             </div>
                             <div class="form-group">
-                                <input type="submit" name="submit" class="btn btn-info btn-md" value="Submit">
+                            <button type="submit" class="btn btn-default">Submit</button>
                                 <div class="message_box" style="margin:10px 0px;">sdfasf</div>
                             </div>
                         </form>
@@ -37,4 +37,4 @@
         </div>
     </div>
 </body>    
-</html>  
+</html>
