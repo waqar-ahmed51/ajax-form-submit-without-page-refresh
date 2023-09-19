@@ -1,6 +1,5 @@
-
 body {
-  margin: 0;
+  margin: 10;
   padding: 0;
   background-color: #17a2b8;
   height: 100vh;
@@ -9,12 +8,23 @@ body {
   margin-top: 120px;
   max-width: 600px;
   height: 250px;
-  border: 1px solid #9C9C9C;
-  background-color: #EAEAEA;
+  border: 1px solid #9c9c9c;
+  background-color: #eaeaea;
 }
-#ajaxform .container #ajaxform-row #ajaxform-column #ajaxform-box #ajaxform-form {
+#ajaxform
+  .container
+  #ajaxform-row
+  #ajaxform-column
+  #ajaxform-box
+  #ajaxform-form {
   padding: 20px;
 }
-#ajaxform .container #ajaxform-row #ajaxform-column #ajaxform-box #ajaxform-form #register-link {
+#ajaxform
+  .container
+  #ajaxform-row
+  #ajaxform-column
+  #ajaxform-box
+  #ajaxform-form
+  #register-link {
   margin-top: -85px;
 }
